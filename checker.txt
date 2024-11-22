@@ -1,0 +1,22 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Привіт! Це тестовий текст, який містить різні символи: латинські літери, кириличні букви, цифри (1234567890) та спеціальні знаки (.,!@#$%^&*()).
+
+У цьому тексті ми перевіримо:
+1. Підрахунок кількості латинських та кириличних літер.
+2. Підрахунок загальної кількості цифр та їх розподіл.
+3. Можливість заміни вибраних символів.
+
+For example, let's include some English sentences to ensure both scripts are handled correctly. Additionally, here's a mix of numbers: 42, 7, 256, and 1024.
+
+Тепер деякі речення українською:
+Це важливий тест для перевірки роботи програми. Замінимо деякі символи, наприклад, замінюємо 'т' на 'Т' або 'е' на 'Е'.
+
+Mixing languages can sometimes cause unexpected behavior, especially when dealing with different encoding schemes. Ensure that the program accurately distinguishes between Latin and Cyrillic characters, even when they look similar (наприклад, 'A' та 'А').
+
+Numbers embedded within text: one1, two2, три3, чотири4, five5, шість6, seven7, вісім8, nine9, десять10.
+
+Special characters to test replacement: @, #, $, %, ^, &, *, (, ), -, _.
+
+Let's add some more complex sentences:
+"Concurrency in modern applications often requires careful consideration of thread safety and resource management. Паралельність у сучасних додатках часто вимагає ретельного розгляду безпеки потоків та управління ресурсами."
+
+End of the sample text. This should provide ample data to thoroughly test all functionalities of the Text Analyzer program.
