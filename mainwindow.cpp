@@ -35,7 +35,7 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent) {
     infoLabel->setFixedHeight(30);
     infoLabel->setStyleSheet("font-size: 14px; background-color: #40444B; color: #DCDDDE; padding: 5px; border: 1px solid #636B73; text-align: center;");
 
-    // Створення кнопок
+    // Створення основних кнопок
     loadFileButton = new QPushButton("Завантажити з файлу", this);
     detectLangButton = new QPushButton("Визначити писемність та статистику", this);
     convertCyrToLatButton = new QPushButton("Кирилиця → Латиниця", this);
